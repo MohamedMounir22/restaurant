@@ -10,7 +10,7 @@ using Xamarin.Forms;
 
 namespace foodOrder.ViewModels
 {
-    class loginViewModel : INotifyPropertyChanged
+  public  class loginViewModel : INotifyPropertyChanged
     {
         public event PropertyChangedEventHandler PropertyChanged;
 
